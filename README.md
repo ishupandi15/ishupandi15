@@ -1,40 +1,38 @@
-<img src="https://github.com/user/banner.png" width="100%">
+![header](https://github.com/user/futuristic-banner.png)
 
-# 🌸 Hello, I'm Ishwariya!  
+# ⚡ Ishwariya Pandi  
+### Cloud | ML | Cybersecurity | Analytics  
 
-A creative tech enthusiast blending **data**, **design**, and **cloud tech** to build meaningful solutions.  
-I love structured dashboards, clean code, and aesthetically pleasing analytics ✨.
-
----
-
-## 🌼 What I Do  
-- 📊 Visual storytelling with data  
-- ☁️ Cloud automation & pipelines  
-- 🧠 Machine learning experimentation  
-- 🎨 Dashboard design (Power BI / Tableau)
+> *Turning complex data into powerful, intelligent systems.*
 
 ---
 
-## 🎀 Current Goals  
-🌱 Learning cybersecurity  
-🚀 Building advanced cloud projects  
-📚 Improving system design skills  
+## 🧠 My Mission  
+Design smart, scalable, cloud-driven systems with automation and intelligence at the core.
 
 ---
 
-## 💗 Tech Stack  
-| Category | Tools |
-|---------|--------|
-| Languages | Python, SQL, Java |
-| Cloud | AWS, Azure |
-| Databases | MySQL, PostgreSQL |
-| Frontend | HTML, CSS, JS |
-| Extras | Git, Linux, Power BI |
+## 🔮 Skills Matrix  
+**💻 Languages:** Python, Java, SQL  
+**☁️ Cloud:** AWS, Azure  
+**📡 ML:** SageMaker, Scikit-learn  
+**🛠 Tools:** Git, Docker, Linux, Terraform  
 
 ---
 
-## 🌸 Connect With Me  
-💌 Email: yourname@asu.edu  
-💼 LinkedIn: your-link  
+## 🧩 Featured Work  
+🛰 **Heart Monitoring AI System**  
+Machine learning + cloud automation predicting heart attack risks in real-time.
+
+🧬 **Cybersecurity Log Analyzer**  
+Python + SIEM-style anomaly scanning for security monitoring.
+
+🕹 **Real-Time Data Streaming Pipeline**  
+Kafka + AWS EMR + Redshift simulation for real-time insights.
+
+---
+
+## 📡 Connect  
+LinkedIn • Portfolio • Email  
 
 ---
