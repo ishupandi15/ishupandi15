@@ -1,38 +1,36 @@
-![header](https://github.com/user/futuristic-banner.png)
+# Hey there! 👋 I'm Ishwariya  
 
-# ⚡ Ishwariya Pandi  
-### Cloud | ML | Cybersecurity | Analytics  
-
-> *Turning complex data into powerful, intelligent systems.*
+I love exploring **data**, building cool tech projects, and learning something new every day!  
+I enjoy mixing creativity with code and making tech easy to understand.
 
 ---
 
-## 🧠 My Mission  
-Design smart, scalable, cloud-driven systems with automation and intelligence at the core.
+## 🎨 What I'm Working On  
+- Building cloud-based health prediction apps  
+- Creating dashboards that explain stories  
+- Practicing Python & SQL daily  
 
 ---
 
-## 🔮 Skills Matrix  
-**💻 Languages:** Python, Java, SQL  
-**☁️ Cloud:** AWS, Azure  
-**📡 ML:** SageMaker, Scikit-learn  
-**🛠 Tools:** Git, Docker, Linux, Terraform  
+## 🔧 Tools I Use  
+🐍 Python  
+🗄 SQL  
+📊 Power BI  
+☁️ AWS  
+🛠 Git + Linux  
+🧪 Jupyter  
 
 ---
 
-## 🧩 Featured Work  
-🛰 **Heart Monitoring AI System**  
-Machine learning + cloud automation predicting heart attack risks in real-time.
-
-🧬 **Cybersecurity Log Analyzer**  
-Python + SIEM-style anomaly scanning for security monitoring.
-
-🕹 **Real-Time Data Streaming Pipeline**  
-Kafka + AWS EMR + Redshift simulation for real-time insights.
+## ✨ Fun Facts  
+🌸 I make notes that look like UI/UX designs  
+📚 I learn by building mini projects  
+🎧 Music makes me code better  
 
 ---
 
-## 📡 Connect  
-LinkedIn • Portfolio • Email  
+## 📫 Reach Me  
+✉️ yourname@asu.edu  
+🌐 LinkedIn  
 
 ---
