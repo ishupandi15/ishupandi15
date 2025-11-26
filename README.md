@@ -1,68 +1,80 @@
-<!-- ===== Purple Neon GitHub Profile README ===== -->
-<!-- Replace banner/avatar URLs with your own images for a more personal look -->
+<!-- Purple Neon profile generated assets -->
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/0s9y9kW/purple-neon-banner.png" alt="banner" width="100%" style="border-radius:6px; filter:drop-shadow(0 6px 18px rgba(138,43,226,0.25));">
+  <img src="profile_assets/banner_purple_neon.png" alt="Banner" width="100%" style="border-radius:10px; box-shadow:0 10px 40px rgba(124,58,237,0.25);">
 </p>
 
-<h1 align="center">✨ Ishwariya Pandi ✨</h1>
-<p align="center"><strong>Data Analytics • Cloud • ML • Software Engineering</strong></p>
+<div align="center" style="margin-top:-80px;">
+  <img src="profile_assets/avatar_neon_bg.png" alt="Avatar" width="160" height="160" style="border-radius:50%; border:6px solid rgba(138,43,226,0.18); box-shadow:0 6px 24px rgba(138,43,226,0.35);">
+  <h1 style="margin:10px 0 4px 0; color:#e6dcff;">✨ Ishwariya Pandi</h1>
+  <p style="margin:0; color:#d9cfff;">Data Analytics • Cloud • ML • Software Engineering</p>
+</div>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-she/her-7C4DFF?style=for-the-badge&logo=graphql&logoColor=white" alt="pronouns" />
+  <img src="https://img.shields.io/badge/Pronouns-she/her-7C4DFF?style=for-the-badge&logo=graphql&logoColor=white" alt="pronouns"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Currently-Learning--Cybersecurity-8A2BE2?style=for-the-badge" alt="learning" />
+  <img src="https://img.shields.io/badge/Learning--Cybersecurity-8A2BE2?style=for-the-badge" alt="learning" />
   &nbsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ishupandi15.ishupandi15&left_text=profile%20views&color=7C4DFF" alt="views">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ishupandi15.ishupandi15&left_text=profile%20views&color=7C4DFF" alt="views" />
 </p>
 
 ---
 
 ## 👩‍💻 About me
-Passionate about building cloud-enabled, data-driven systems and user-facing dashboards. I enjoy combining clean engineering practices with analytics to solve real-world problems.  
-📫 **Email:** ishupandi15@gmail.com • 📍 United States
+Passionate about building cloud-enabled, data-driven systems and user-facing dashboards. I combine engineering rigor with visual storytelling.  
+📫 Email: **ishupandi15@gmail.com** • 📍 United States
 
 ---
 
-## ✨ Skills (Purple Neon)
+## ✨ Animated Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql,aws,docker,linux" alt="skills" />
-</p>
-
----
-
-## 📊 GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishupandi15&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="github-stats" width="48%" style="margin-right:8px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishupandi15&layout=compact&theme=dracula&hide_border=true" alt="top-langs" width="36%">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishupandi15&theme=dracula&hide_border=true" alt="streak" width="60%" style="margin-top:12px">
-</p>
-
----
-
-## 🏆 Trophies & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishupandi15&theme=dracula&no-frame=true&margin-w=8" alt="trophies" />
+  <img src="profile_assets/anim_python.gif" width="60" alt="python" />
+  &nbsp;&nbsp;
+  <img src="profile_assets/anim_aws.gif" width="60" alt="aws" />
+  &nbsp;&nbsp;
+  <img src="profile_assets/anim_docker.gif" width="60" alt="docker" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-<div align="center" style="display:flex; gap:18px; justify-content:center; flex-wrap:wrap; margin-top:8px">
-  <!-- Card 1 -->
-  <div style="background:#1b0f2e; padding:14px; width:320px; border-radius:12px; box-shadow:0 8px 24px rgba(124,58,237,0.18);">
-    <h3 style="margin:0 0 6px 0; color:#d6c7ff;">Heart-Disease-Dashboard</h3>
-    <p style="margin:0 0 10px 0; color:#cfc7ff; font-size:13px;">
-      Visual analysis of heart disease risk factors using UCI dataset — Tableau + HTML dashboard.
-    </p>
-    <p style="margin:0;"><strong>Tech:</strong> HTML • Tableau • JS</p>
-  </div>
+<div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap; margin-top:12px;">
+  <a href="https://github.com/ishupandi15/Heart-Disease-Dashboard" style="text-decoration:none;">
+    <div style="background:linear-gradient(180deg,#1a0b26,#0f0614); width:320px; border-radius:12px; padding:18px; box-shadow: 0 12px 30px rgba(124,58,237,0.16); border:1px solid rgba(124,58,237,0.14);">
+      <h3 style="color:#e8dcff; margin:0 0 8px 0;">Heart-Disease-Dashboard</h3>
+      <p style="color:#cfc2ff; font-size:13px; margin:0 0 12px;">UCI Cleveland analysis + responsive dashboard built with HTML & Tableau.</p>
+      <p style="color:#b9a9ff; font-size:12px; margin:0;"><strong>Tech:</strong> HTML • Tableau • JS</p>
+    </div>
+  </a>
 
-  <!-- Card 2 -->
-  <div style="background:#1b0f2e; padding:14px; width:320px; border-radius:12px; box-shadow:0 8px 24px rgba(124,58,237,0.18);">
-    <h3 style="margin:0 0 6px 0; color:#d6c7ff;">StudentDynamoDBProject</h3>
-    <p style="margin:0 0 10px 0; color:#cfc7ff; font-size:13px;
+  <a href="https://github.com/ishupandi15/StudentDynamoDBProject" style="text-decoration:none;">
+    <div style="background:linear-gradient(180deg,#1a0b26,#0f0614); width:320px; border-radius:12px; padding:18px; box-shadow: 0 12px 30px rgba(124,58,237,0.16); border:1px solid rgba(124,58,237,0.14);">
+      <h3 style="color:#e8dcff; margin:0 0 8px 0;">StudentDynamoDBProject</h3>
+      <p style="color:#cfc2ff; font-size:13px; margin:0 0 12px;">CRUD app with AWS DynamoDB & S3 — backend-focused student records system.</p>
+      <p style="color:#b9a9ff; font-size:12px; margin:0;"><strong>Tech:</strong> AWS • Python • DynamoDB</p>
+    </div>
+  </a>
+
+  <a href="https://github.com/ishupandi15/computer-vision-projects" style="text-decoration:none;">
+    <div style="background:linear-gradient(180deg,#1a0b26,#0f0614); width:320px; border-radius:12px; padding:18px; box-shadow: 0 12px 30px rgba(124,58,237,0.16); border:1px solid rgba(124,58,237,0.14);">
+      <h3 style="color:#e8dcff; margin:0 0 8px 0;">computer-vision-projects</h3>
+      <p style="color:#cfc2ff; font-size:13px; margin:0 0 12px;">License plate detection + fire detection prototypes (OpenCV).</p>
+      <p style="color:#b9a9ff; font-size:12px; margin:0;"><strong>Tech:</strong> Python • OpenCV • ML</p>
+    </div>
+  </a>
+</div>
+
+---
+
+## 🔗 Connect & Socials
+<p align="center">
+  <a href="mailto:ishupandi15@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" alt="email" width="34"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pooja1698" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="34"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ishupandi15" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="34"></a>
+</p>
+
+<p align="center" style="margin-top:18px; color:#d6c7ff;">✨ Building meaningful tech, one commit at a time.</p>
