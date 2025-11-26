@@ -1,36 +1,35 @@
-# Hey there! 👋 I'm Ishwariya  
-
-I love exploring **data**, building cool tech projects, and learning something new every day!  
-I enjoy mixing creativity with code and making tech easy to understand.
+# 👋 Hi, I'm Ishwariya Pandi  
+### Data Engineer | Cloud Developer | ML Project Builder
 
 ---
 
-## 🎨 What I'm Working On  
-- Building cloud-based health prediction apps  
-- Creating dashboards that explain stories  
-- Practicing Python & SQL daily  
+## 📁 My Project Portfolio  
+
+### 🔥 1. Heart Attack Prediction System  
+AWS end-to-end pipeline (S3 → EMR → SageMaker → Lambda → SNS)
+
+### 🔥 2. Customer Segmentation ML Model  
+Clustered customer behavior using ML + Power BI storytelling
+
+### 🔥 3. Automated ETL with Python & AWS  
+Cron-based data refresh & processing automation
+
+### 🔥 4. Cybersecurity Log Analyzer  
+Pattern detection on firewall logs using Python
 
 ---
 
-## 🔧 Tools I Use  
-🐍 Python  
-🗄 SQL  
-📊 Power BI  
-☁️ AWS  
-🛠 Git + Linux  
-🧪 Jupyter  
+## 🧠 Skills Summary  
+- **Programming:** Python, Java, SQL  
+- **ML:** Scikit-Learn, SageMaker  
+- **Cloud:** AWS (EMR, Lambda, S3, DynamoDB)  
+- **Databases:** MySQL, PostgreSQL  
+- **Visualization:** Power BI  
 
 ---
 
-## ✨ Fun Facts  
-🌸 I make notes that look like UI/UX designs  
-📚 I learn by building mini projects  
-🎧 Music makes me code better  
-
----
-
-## 📫 Reach Me  
-✉️ yourname@asu.edu  
-🌐 LinkedIn  
+## 📬 Contact  
+📧 Email  
+🔗 LinkedIn  
 
 ---
