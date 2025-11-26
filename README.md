@@ -1,35 +1,35 @@
-# 👋 Hi, I'm Ishwariya Pandi  
-### Data Engineer | Cloud Developer | ML Project Builder
+<h1 align="center">✨ Ishwariya Pandi ✨</h1>
+<h3 align="center">Data & Cloud Professional</h3>
 
 ---
 
-## 📁 My Project Portfolio  
-
-### 🔥 1. Heart Attack Prediction System  
-AWS end-to-end pipeline (S3 → EMR → SageMaker → Lambda → SNS)
-
-### 🔥 2. Customer Segmentation ML Model  
-Clustered customer behavior using ML + Power BI storytelling
-
-### 🔥 3. Automated ETL with Python & AWS  
-Cron-based data refresh & processing automation
-
-### 🔥 4. Cybersecurity Log Analyzer  
-Pattern detection on firewall logs using Python
+## 🚀 About Me  
+I design reliable data pipelines and intelligent cloud systems with a blend of engineering and analytics.
 
 ---
 
-## 🧠 Skills Summary  
-- **Programming:** Python, Java, SQL  
-- **ML:** Scikit-Learn, SageMaker  
-- **Cloud:** AWS (EMR, Lambda, S3, DynamoDB)  
-- **Databases:** MySQL, PostgreSQL  
-- **Visualization:** Power BI  
+## 🛠 Expertise  
+- 🟡 Data Engineering  
+- 🟡 Cloud Architecture  
+- 🟡 Machine Learning  
+- 🟡 Technical Project Management  
 
 ---
 
-## 📬 Contact  
-📧 Email  
+## 🧰 Tools  
+Python • SQL • AWS • Azure • Docker • Git • Power BI  
+
+---
+
+## 🌟 Highlight Projects  
+🔸 Real-Time Health Monitoring (AWS + ML)  
+🔸 Customer Retention Analysis  
+🔸 Event-Driven Automation Pipelines  
+
+---
+
+## 🤝 Let's Connect  
+📧 your email  
 🔗 LinkedIn  
 
 ---
