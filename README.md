@@ -10,10 +10,6 @@
 </div>
 
 <!-- Title + subtitle (slightly tighter spacing) -->
-<h3 align="center" style="color:#b565d9; font-weight:400; margin-top:0; margin-bottom:12px;">
-  MS IT @ ASU • Data Analytics • Cloud • ML
-</h3>
-
 <p align="center" style="margin-bottom:18px;">
   <img src="https://img.shields.io/badge/Pronouns-She/Her-ffb7e7?style=for-the-badge" alt="Pronouns"/>
   <img src="https://img.shields.io/badge/Open_to-Winter_2026_Roles-dcb7ff?style=for-the-badge" alt="Open to roles"/>
