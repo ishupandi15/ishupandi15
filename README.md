@@ -10,9 +10,6 @@
 </div>
 
 <!-- Title + subtitle (slightly tighter spacing) -->
-<h1 align="center" style="color:#d88cff; font-family: 'Poppins', sans-serif; margin-top:6px; margin-bottom:6px;">
-  🌸 Ishwariya Pandi 🌸
-</h1>
 <h3 align="center" style="color:#b565d9; font-weight:400; margin-top:0; margin-bottom:12px;">
   MS IT @ ASU • Data Analytics • Cloud • ML
 </h3>
