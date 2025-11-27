@@ -2,7 +2,7 @@
 
 <!-- Pastel Header Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/z7V6F9b/pastel-banner.png" width="100%" alt="Pastel Banner" style="border-radius:16px;">
+  <img src="https://i.ibb.co/z7V6F9b/pastel-banner.png" width="100%" alt="PastelBanner" style="border-radius:16px;">
 </p>
 
 <h1 align="center" style="color:#d88cff; font-family: 'Poppins', sans-serif;">🌸 Ishwariya Pandi 🌸</h1>
