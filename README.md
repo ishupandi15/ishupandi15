@@ -1,3 +1,4 @@
+```markdown
 <!-- ===================== GITHUB PROFILE README ===================== -->
 
 <div align="center">
@@ -18,15 +19,15 @@
 
 ## 🌷 About Me
 
-Hi! I'm **Ishwariya**, a recent **MS Information Technology graduate from Arizona State University (GPA 4.00, With Distinction)** specializing in **Cloud Architecture, Data Engineering, and SAP BTP Development**.
+Hi! I'm **Ishwariya**, a recent **MS Information Technology graduate from Arizona State University (GPA 4.00, With Distinction)** specializing in **Enterprise Integration, SAP BTP Modernization, AWS Cloud Architecture, and Data Engineering**.
 
 I have **2+ years of industry experience** spanning enterprise integrations at **Accenture**, cloud modernization at **Jabil Inc**, VR system operations at **Dreamscape Learn**, and full-stack development at **CodeBind Technologies**.
 
 💖 Areas I care deeply about:
-- Cloud architecture & SAP BTP modernization
-- Data engineering, pipelines & analytics
-- Enterprise integrations & SAP PI/PO → CPI migration
-- Automation, reliability & production system design
+- Enterprise integration — SAP PI/PO to SAP CPI migration & SAP BTP modernization
+- AWS cloud architecture and deployment
+- Data engineering, pipeline development & analytics
+- Automation, reliability & production-ready system design
 
 ---
 
@@ -70,11 +71,15 @@ Modernizing 200+ legacy SAP PI/PO interfaces to SAP BTP. Prototyping event-drive
 
 `SAP BTP` `SAP Integration Suite` `SAP Event Mesh` `CPI iFlows` `API Management` `Migration Assessment`
 
+---
+
 ### 🥽 VR Pod Operator — Dreamscape Learn
 `May 2025 – May 2026 · Arizona`
 Maintained and calibrated Unity-based VR systems for immersive student learning sessions. Real-time hardware/software troubleshooting, spatial calibration, and QA testing.
 
 `Unity` `VR Systems` `QA Testing` `Hardware-Software Integration` `Live Troubleshooting`
+
+---
 
 ### ⚙️ Software Development Engineer — Accenture
 `Aug 2022 – Jul 2024 · Bangalore, India`
@@ -82,11 +87,15 @@ Built production-grade enterprise integrations using SAP PI/PO, SAP CPI, REST, S
 
 `SAP PI/PO` `SAP CPI` `REST` `SOAP` `IDoc` `RFC` `JMS` `Groovy` `OData` `Production Support`
 
+---
+
 ### 🔧 Software Analyst Trainee — RETECH Solutions
 `May 2022 – Jun 2022 · India`
 Backend and UI updates in C#, AngularJS, TypeScript. Selenium automation, Docker testing, Linux releases, and MS SQL Server stored procedures.
 
 `C#` `AngularJS` `TypeScript` `Selenium` `Docker` `Linux` `MS SQL Server`
+
+---
 
 ### 💻 Software Engineering Intern — CodeBind Technologies
 `Nov 2021 – Dec 2021 · India`
@@ -112,7 +121,7 @@ Normalized data warehouse with triggers, stored procedures, and analytical views
 
 ### 🌐 Personal Portfolio Website
 Custom portfolio with AI chat assistant, 3D skill orb, animated timeline, and dark/light mode.
-Built with: `GitHub Actions` `CI/CD` `Vercel` `Porkbun` `Responsive Design` `Custom Animations`
+`GitHub Actions` `CI/CD` `Vercel` `Porkbun` `Responsive Design` `Custom Animations`
 🔗 **[ishwariyapandi.com](https://www.ishwariyapandi.com)**
 
 ---
@@ -153,3 +162,4 @@ Built with: `GitHub Actions` `CI/CD` `Vercel` `Porkbun` `Responsive Design` `Cus
 <p align="center">✨ thanks for visiting my pastel corner ✨</p>
 
 <!-- ===================== END README ===================== -->
+```
