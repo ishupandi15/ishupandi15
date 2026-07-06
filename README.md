@@ -16,16 +16,16 @@
 
 <p align="center">
   <a href="https://www.ishwariyapandi.com">
-    <img src="https://img.shields.io/badge/-Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ishwariya-pandi-9a051a1b4/">
-    <img src="https://img.shields.io/badge/-LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:ishupandi15@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-ffe0f2?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-ffe0f2?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://github.com/ishupandi15">
-    <img src="https://img.shields.io/badge/-GitHub-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -90,32 +90,32 @@ Built a responsive portfolio with custom animations, CI/CD deployment, and a cus
 
 ## 💼 Experience  
 
-### ✨ Cloud Developer Intern — Jabil Inc  
-**May 2026 – Present · Florida, United States**  
+### ✨ Cloud Developer Intern - Jabil Inc  
+**May 2026 - Present · Florida, United States**  
 Working on SAP PI/PO to SAP BTP modernization, integration assessment, and event-driven SAP prototypes.
 
-### ✨ VR Pod Operator — Dreamscape Learn  
-**May 2025 – May 2026 · Arizona, United States**  
+### ✨ VR Pod Operator - Dreamscape Learn  
+**May 2025 - May 2026 · Arizona, United States**  
 Supported Unity-based VR learning systems, hardware calibration, QA testing, and live troubleshooting.
 
-### ✨ Software Development Engineer — Accenture  
-**Aug 2022 – Jul 2024 · Bangalore, India**  
+### ✨ Software Development Engineer - Accenture  
+**Aug 2022 - Jul 2024 · Bangalore, India**  
 Built and supported SAP integrations, backend workflows, APIs, production monitoring, and incident resolution.
 
-### ✨ Software Analyst Trainee — RETECH Solutions Pvt Ltd  
-**May 2022 – Jun 2022 · India**  
+### ✨ Software Analyst Trainee - RETECH Solutions Pvt Ltd  
+**May 2022 - Jun 2022 · India**  
 Worked on backend updates, SQL Server, Selenium automation, and Docker-based testing.
 
-### ✨ Software Engineering Intern — CodeBind Technologies  
-**Nov 2021 – Dec 2021 · India**  
+### ✨ Software Engineering Intern - CodeBind Technologies  
+**Nov 2021 - Dec 2021 · India**  
 Built a scheduling app using React, Go, PostgreSQL, REST APIs, and GitHub Actions.
 
 ---
 
 ## 🎓 Education  
 
-🎓 **MS Information Technology** — Arizona State University · **GPA 4.00** · **With Distinction** · May 2026  
-🎓 **B.Tech Information Technology** — Anna University · April 2022  
+🎓 **MS Information Technology** - Arizona State University · **GPA 4.00** · **With Distinction** · May 2026  
+🎓 **B.Tech Information Technology** - Anna University · April 2022  
 
 ---
 
@@ -130,11 +130,12 @@ Built a scheduling app using React, Go, PostgreSQL, REST APIs, and GitHub Action
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Snapshot  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishupandi15&show_icons=true&hide_border=true&theme=buefy&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishupandi15&layout=compact&hide_border=true&theme=buefy&cache_seconds=86400" width="40%" />
+  <img src="https://img.shields.io/badge/Profile-ishupandi15-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Cloud_%7C_Data_%7C_SAP_BTP-ffc7ef?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Cloud_%26_Analytics-dcb7ff?style=for-the-badge" />
 </p>
 
 ---
@@ -143,16 +144,16 @@ Built a scheduling app using React, Go, PostgreSQL, REST APIs, and GitHub Action
 
 <p align="center">
   <a href="https://www.ishwariyapandi.com">
-    <img src="https://img.shields.io/badge/-Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="mailto:ishupandi15@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-ffe0f2?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-ffe0f2?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ishwariya-pandi-9a051a1b4/">
-    <img src="https://img.shields.io/badge/-LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://github.com/ishupandi15">
-    <img src="https://img.shields.io/badge/-GitHub-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
