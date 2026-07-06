@@ -1,39 +1,39 @@
-<!-- ===================== SOFT AESTHETIC GITHUB PROFILE README ===================== -->
+<!-- ===================== GITHUB PROFILE README ===================== -->
 
-<div align="center" style="margin-top: 6px; margin-bottom: 10px;">
+<div align="center">
   <img
     src="https://raw.githubusercontent.com/ishupandi15/ishupandi15/main/profile_assets/PastelBanner.png"
     alt="PastelBanner"
-    style="width:100%; max-width:1100px; max-height:360px; object-fit:cover; border-radius:16px;"
+    style="width:100%; max-width:1100px; border-radius:16px;"
   />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pronouns-She/Her-ffb7e7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_to-Winter_2026_Roles-dcb7ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Arizona-ffc7ef?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Full_Time_Roles-dcb7ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Tampa,_Florida-ffc7ef?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌷 About Me  
+## 🌷 About Me
 
-Hi! I’m **Ishwariya**, a Master’s student in **Information Technology at Arizona State University** with a strong focus on **Cloud Systems, Data Analytics, and Scalable Software Engineering**.
+Hi! I'm **Ishwariya**, a recent **MS Information Technology graduate from Arizona State University (GPA 4.00, With Distinction)** with a focus on **Cloud Systems, Enterprise Integrations, and Data Engineering**.
 
-I bring **2+ years of industry experience as a Software Development Engineer at Accenture**, where I worked on **enterprise backend systems, SAP PI/PO & S/4HANA integrations, RESTful APIs, and production-grade cloud workflows**. Alongside industry experience, my academic and personal projects showcase hands-on work in **AWS, SQL analytics, data pipelines, dashboards, and machine learning systems**.
+I have **2+ years of industry experience** spanning enterprise backend integrations at **Accenture**, cloud modernization at **Jabil Inc**, VR system operations at **Dreamscape Learn**, and full-stack development at **CodeBind Technologies**.
 
-I enjoy building reliable systems that turn complex data into clear, actionable insights—whether through backend services, cloud-native analytics, or thoughtfully designed dashboards.
+I enjoy building things where cloud, data, software, and real-world problem solving meet — systems that actually make life easier, and projects where I get to connect the dots between applications, infrastructure, and data.
 
-💖 Areas I care deeply about:  
-• Cloud-native backend systems  
-• Data engineering & analytics  
-• SAP integrations & enterprise platforms  
-• Automation & reliability engineering  
-• Clean, modern system design  
+💖 Areas I care deeply about:
+- Cloud-native backend systems & SAP BTP modernization
+- Enterprise integrations (SAP PI/PO → CPI migration)
+- Data engineering, analytics & dashboards
+- Automation, reliability & production system design
+- Full-stack development & clean modern interfaces
 
 ---
 
-## 🧠 Technical Strengths  
+## 🧠 Technical Strengths
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ffc7ef?style=for-the-badge&logo=python&logoColor=black" />
@@ -41,62 +41,74 @@ I enjoy building reliable systems that turn complex data into clear, actionable 
   <img src="https://img.shields.io/badge/SQL-f7d0ff?style=for-the-badge&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-dcb7ff?style=for-the-badge&logo=amazonaws&logoColor=black" />
   <br/>
-  <img src="https://img.shields.io/badge/Tableau-ffb7e7?style=for-the-badge&logo=tableau&logoColor=black" />
-  <img src="https://img.shields.io/badge/SAP-ffe0f2?style=for-the-badge&logo=sap&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-d4b9ff?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20APIs-ffcef4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP_BTP-ffb7e7?style=for-the-badge&logo=sap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-ffe0f2?style=for-the-badge&logo=tableau&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-d4b9ff?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-ffcef4?style=for-the-badge&logo=go&logoColor=black" />
 </p>
 
-**Core Stack:**  
-- **Languages:** Python, Java, JavaScript, TypeScript, C#, SQL, Bash  
-- **Cloud & Data:** AWS (Lambda, S3, EMR, Athena, SageMaker, SNS, CloudWatch), DynamoDB  
-- **Backend & Integration:** REST APIs, Distributed Systems, SAP PI/PO, S/4HANA  
-- **Analytics & Visualization:** Tableau, SQL Analytics, Data Modeling, Data Quality  
-- **DevOps & Tools:** Git, Docker, CI/CD, GitHub Actions, ServiceNow, JIRA, Linux  
+**Core Stack:**
+- **Languages:** Python, Java, JavaScript, TypeScript, C#, Go, SQL, Groovy, Bash
+- **Cloud & Data:** AWS (Lambda, S3, EMR, Athena, SageMaker, SNS, CloudWatch, DynamoDB)
+- **SAP & Integration:** SAP BTP, SAP PI/PO, SAP CPI, SAP Integration Suite, SAP Event Mesh, CPI iFlows, REST, SOAP, IDoc, RFC, JMS, OData, AS2, SFTP
+- **Frontend & Backend:** React, Tailwind CSS, Go, PostgreSQL, REST APIs, AngularJS, C#, .NET
+- **DevOps & Tools:** GitHub Actions, CI/CD, Docker, Linux, ServiceNow, JIRA, Selenium
 
 ---
 
-## 🚀 Project Showcase  
+## 💼 Experience
 
-### 🩺 Heart Health Alert System | AWS, Data Engineering, ML  
-A distributed AWS-based analytics pipeline that preprocesses patient vitals using **Spark on EMR**, applies **machine learning risk prediction via SageMaker**, and triggers real-time alerts using **Lambda and SNS**. Analytics are enabled through **Athena external tables over S3-backed datasets**.
+### ☁️ Cloud Developer Intern — Jabil Inc
+`May 2026 – Present · Tampa, Florida`
+Modernizing 200+ legacy SAP PI/PO interfaces to SAP BTP. Prototyping event-driven integration flows using SAP Event Mesh, CPI iFlows, JMS queues, and SuccessFactors business events. Exploring SAP Joule use cases with BTP, Signavio, and DataSphere.
 
-### 📊 Heart Disease Dashboard | Tableau, SQL  
-An interactive Tableau dashboard analyzing **300+ patient records** to uncover cardiovascular risk patterns. Focused on **data cleaning, schema consistency, and visual storytelling** for decision support.
+### 🥽 VR Pod Operator — Dreamscape Learn
+`May 2025 – May 2026 · Arizona`
+Maintained and calibrated Unity-based VR systems for immersive student learning sessions. Real-time hardware/software troubleshooting, spatial calibration, and QA testing.
 
-### 🗂️ Student Records CRUD Application | AWS, Backend  
-A cloud-native CRUD backend using **DynamoDB, S3, and Python (boto3)** with structured data exports and analytical filtering capabilities.
+### ⚙️ Software Development Engineer — Accenture
+`Aug 2022 – Jul 2024 · Bangalore, India`
+Built production-grade enterprise integrations using SAP PI/PO, SAP CPI, REST, SOAP, IDoc, RFC, JMS, and Groovy scripting. Led PI/PO-to-CPI migration work, production monitoring, error handling, and runtime controls.
 
-### 🏏 T20 World Cup 2024 | SQL Data Warehouse  
-Designed a normalized **SQL Server data warehouse** with constraints, triggers, stored procedures, and analytical views to support reusable tournament analytics.
+### 🔧 Software Analyst Trainee — RETECH Solutions
+`May 2022 – Jun 2022 · India`
+Backend and UI updates in C#, AngularJS, TypeScript. Selenium automation, Docker-based testing, Linux releases, and MS SQL Server stored procedures.
 
----
-
-## 💼 Experience  
-
-### ✨ Software Development Engineer — Accenture  
-- Built and supported enterprise backend integration systems using **Java, JavaScript, SQL, and REST APIs**  
-- Worked extensively with **SAP PI/PO and S/4HANA** environments supporting large-scale data flows  
-- Managed production incidents and change requests via **ServiceNow and JIRA**, delivering fixes within SLAs  
-- Improved system reliability through monitoring, alerting, and operational automation  
-
-### ✨ Software Engineering Intern — CodeBind Technologies  
-- Developed full-stack features using **React, Go, PostgreSQL, and REST APIs**  
-- Implemented CI/CD pipelines with **GitHub Actions**, improving deployment efficiency  
-
-### ✨ Programmer Analyst Trainee — Cognizant  
-- Contributed to .NET backend systems, SQL Server reporting, Selenium automation, and Docker-based testing  
+### 💻 Software Engineering Intern — CodeBind Technologies
+`Nov 2021 – Dec 2021 · India`
+Built a full-stack scheduling app using React, Tailwind CSS, Go, and PostgreSQL. Configured GitHub Actions CI/CD pipelines and RESTful API endpoints.
 
 ---
 
-## 🎓 Education  
+## 🚀 Project Showcase
 
-🎓 **Master of Science in Information Technology** — Arizona State University  
-🎓 **Bachelor of Technology in Information Technology** — Anna University  
+### 🩺 Heart Health Alert System | AWS, ML, Data Engineering
+Distributed AWS pipeline using Spark on EMR, SageMaker risk prediction, Lambda + SNS real-time alerts, and Athena analytics over S3-backed datasets.
+
+### 📊 Heart Disease Dashboard | Tableau, SQL
+Interactive Tableau dashboard analyzing 300+ patient records for cardiovascular risk patterns. Focused on data cleaning, schema consistency, and visual storytelling.
+
+### 🗂️ Student Records CRUD App | AWS, Backend
+Cloud-native CRUD backend using DynamoDB, S3, and Python (boto3) with structured data exports and analytical filtering.
+
+### 🏏 T20 World Cup 2024 SQL Warehouse | SQL Server
+Normalized SQL Server data warehouse with constraints, triggers, stored procedures, and analytical views for tournament analytics.
+
+### 🌐 Personal Portfolio Website | Claude Code, ChatGPT, Vercel, GitHub Actions
+Fully custom portfolio with a built-in AI chat assistant, 3D interactive skill orb, animated career timeline, dark/light mode, and CI/CD via GitHub Actions → Vercel.
+
+🔗 **[ishwariyapandi.com](https://www.ishwariyapandi.com)**
 
 ---
 
-## 📊 GitHub Stats  
+## 🎓 Education
+
+🎓 **MS Information Technology** — Arizona State University · GPA 4.00 · With Distinction · May 2026
+🎓 **B.Tech Information Technology** — Anna University · April 2022
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishupandi15&show_icons=true&theme=buefy&hide_border=true" width="48%" />
@@ -105,11 +117,14 @@ Designed a normalized **SQL Server data warehouse** with constraints, triggers, 
 
 ---
 
-## 🌸 Let’s Connect  
+## 🌸 Let's Connect
 
 <p align="center">
+  <a href="https://www.ishwariyapandi.com">
+    <img src="https://img.shields.io/badge/Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
   <a href="mailto:ishupandi15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffc4eb?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-ffd6f0?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ishwariya-pandi-9a051a1b4/">
     <img src="https://img.shields.io/badge/LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
