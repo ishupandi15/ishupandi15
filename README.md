@@ -16,13 +16,16 @@
 
 <p align="center">
   <a href="https://www.ishwariyapandi.com">
-    <img src="https://img.shields.io/badge/Portfolio-ishwariyapandi.com-ffe0f2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ishwariya-pandi-9a051a1b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ishwariya_Pandi-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/-LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:ishupandi15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ishupandi15%40gmail.com-ffc4eb?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Email-ffe0f2?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/ishupandi15">
+    <img src="https://img.shields.io/badge/-GitHub-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -81,7 +84,7 @@ Designed a normalized data warehouse with stored procedures, triggers, and analy
 
 ### 🌐 Personal Portfolio Website  
 **React, GitHub Actions, Vercel, Porkbun**  
-Built a responsive personal portfolio with custom animations, CI/CD deployment, and a custom domain.
+Built a responsive portfolio with custom animations, CI/CD deployment, and a custom domain.
 
 ---
 
@@ -140,16 +143,16 @@ Built a scheduling app using React, Go, PostgreSQL, REST APIs, and GitHub Action
 
 <p align="center">
   <a href="https://www.ishwariyapandi.com">
-    <img src="https://img.shields.io/badge/Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Portfolio-ffc4eb?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="mailto:ishupandi15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffc4eb?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Email-ffe0f2?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ishwariya-pandi-9a051a1b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/-LinkedIn-dbbaff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://github.com/ishupandi15">
-    <img src="https://img.shields.io/badge/GitHub-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/-GitHub-e9d2ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
