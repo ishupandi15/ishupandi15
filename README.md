@@ -1,12 +1,5 @@
-```markdown
-<!-- ===================== GITHUB PROFILE README ===================== -->
-
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/ishupandi15/ishupandi15/main/profile_assets/PastelBanner.png"
-    alt="PastelBanner"
-    style="width:100%; max-width:1100px; border-radius:16px;"
-  />
+  <img src="https://raw.githubusercontent.com/ishupandi15/ishupandi15/main/profile_assets/PastelBanner.png" alt="PastelBanner" width="100%" />
 </div>
 
 <p align="center">
@@ -160,6 +153,3 @@ Custom portfolio with AI chat assistant, 3D skill orb, animated timeline, and da
 </p>
 
 <p align="center">✨ thanks for visiting my pastel corner ✨</p>
-
-<!-- ===================== END README ===================== -->
-```
